@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DinnerDecider</string>
+    <string name="tutorial_abspielen">Tutorial abspielen</string>
+    <string name="backtodecide">BackToDecide!</string>
+    <string name="was_soll_es_heute_geben">Was soll es heute geben?</string>
+    <string name="todo">TODO</string>
+    <string name="diy">DIY</string>
+    <string name="was_wird_es_heute_geben">Was wird es heute geben!?</string>
+    <string name="finde_es_heraus">Finde es heraus</string>
+</resources>
